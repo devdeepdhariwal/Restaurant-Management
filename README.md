@@ -122,9 +122,6 @@ npm run dev
 
 ---
 
-login id/pass for admin --- admin@example.com/admin1234
-login id/pass for staff --- adam@gmail.com/adam123
-
 ## 📊 Admin Analytics
 
 Charts and reports on:
